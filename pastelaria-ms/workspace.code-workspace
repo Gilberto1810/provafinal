@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "pastelaria",
+			"path": "pastelaria"
+		},
+		{
+			"name": "pedidos",
+			"path": "pedidos"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
